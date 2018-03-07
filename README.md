@@ -1,2 +1,2 @@
-# CLOUD DIGITALSCHOOL
+# CLOUD DIGITAL SCHOOL
 Application de gestion des écoles  privée
